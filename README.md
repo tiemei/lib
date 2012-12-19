@@ -1,4 +1,6 @@
 lib
 ===
 
-my shell/perl/..  library
+包括：  
+1. 各种语言常用的例子
+2. 自己写的小工具
